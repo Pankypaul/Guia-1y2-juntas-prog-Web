@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(190, 248, 247);
+}
+
+.color-h1{
+    text-align: center;
+    color: rgb(14, 83, 67);
+    text-decoration: underline;
+    
+}
+
+.color-centrar{
+    text-align: center;
+    color: rgb(14, 83, 67);
+    text-decoration: underline;
+}
+
+.centrar{
+    text-align: center;
+    font-size: large;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.contenedor2{
+    display: flex;
+}
+
+.texto-derecha1{
+    margin-left: 30px;
+    text-align: center;
+}
+
+.cambio-texto{
+    font-weight: bold;
+    font-size: x-large;
+    color:blue ;
+    text-decoration:underline;
+}
+
+.inicio-color-mover{
+    color:blue ;
+    text-decoration:underline;
+    margin-left: auto;
+}
+
+.formato-texto-ficha{
+    font-weight: 500;
+    font-size: large;
+}
+.gatos{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    border: 3px solid black ; 
+}
+
+.perros{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    border: 3px solid black ; 
+
+}
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(3, 3, 68);
+}
+
+.texto{
+    text-align: center;
+}
+
+.texto2{
+    color: rgb(3, 3, 68);
+    text-decoration: underline;
+}
+
+.volver{
+    text-align: right;
+}
+
+.texto3{
+    margin-left: 30px;
+    text-align: center;
+}
+
+.cambio-color{
+    color: rgb(14, 83, 67);
+    text-decoration: underline;
+    margin-left: 90px;
+}
